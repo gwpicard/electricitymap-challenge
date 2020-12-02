@@ -1,0 +1,6 @@
+;IDA 3.9 Document
+(DOCUMENT-HEADER :TYPE ICE-DB :N "Weather":D "This document contains descriptions to ICE weather files produced using IDA Weather Utility.
+To use these description, save them to the ICE database." :PARENT ICE)
+((CLIMATE-DEF :N "Inch'On_ASHRAE" :T CLIMATE-DEF :D "ASHRAE IWEC Weather File for Inch'On.
+(c) 2001 American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., Atlanta, GA, USA.
+DISCLAIMER OF WARRANTIES: The data is provided \as is\ without warranty of any kind, either expressed or implied. The entire risk as to the quality and performance of the data is with you. In no event will ASHRAE or its contractors be liable to you for any damages, including without limitation any lost profits, lost savings, or other incidental or consequential damages arising out of the use or inability to use this data.") (:PAR :N FILENAME :V "471120_IWC.PRN") (:PAR :N COUNTRY :V "Korea - Republic of") (:PAR :N STATION :V "Inch'On") (:PAR :N LATITUDE :V 37.483) (:PAR :N LONGITUDE :V -126.550) (:PAR :N ELEVATION :V 70.000) (:PAR :N TIME_ZONE :V -9.000) (:PAR :N WIND-HEIGHT :V 10.000))
